@@ -1,0 +1,4 @@
+com\poc\pit\test\converter\TestConverterImpl.class
+com\poc\pit\test\message\TestMessageBuilder.class
+com\poc\pit\test\palindrome\PalindromeTest.class
+com\poc\pit\test\converter\TestNotThoroughlyTestedClass.class

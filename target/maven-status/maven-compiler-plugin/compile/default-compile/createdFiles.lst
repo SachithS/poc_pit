@@ -1,0 +1,5 @@
+com\poc\pit\converter\ConverterImpl.class
+com\poc\pit\converter\Converter.class
+com\poc\pit\converter\NotThoroughlyTestedClass.class
+com\poc\pit\message\MessageBuilder.class
+com\poc\pit\palindrome\Palindrome.class
